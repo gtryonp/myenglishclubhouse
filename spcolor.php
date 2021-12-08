@@ -32,6 +32,7 @@ recognition.onresult = function (event) {
 		document.getElementById("divcolor").innerHTML=orden.toUpperCase();
 	}
 }
+/*___ function mostrardebuganimacion() { ______________________________________________________________________________________________________________________________________________________________________________________________________________________________	*/
 function mostrardebuganimacion() {
 	try { recognition.start();;}	catch(err)	{console.log(err);};	
 }

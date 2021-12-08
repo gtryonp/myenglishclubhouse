@@ -1,0 +1,96 @@
+
+[2020.10.03 09:49:12][/]  (  select *  from libro where true       )     
+[2020.10.03 09:50:07][/]  (  select *  from aula where true       )     
+[2020.10.03 09:50:08][/]  (  select *  from libro where true       )     
+[2020.10.03 09:50:09][/]  (  select *  from alumno where true       )     
+[2020.10.03 09:55:37][/]  (  select *  from libro where true       )     
+[2020.10.03 09:55:47][/]  (  select *  from libro where true       )     
+[2020.10.03 09:56:10][/]  (  select *  from libro where true       )     
+[2020.10.03 09:56:45][/]  (  select *  from libro where true       )     
+[2020.10.03 09:56:47][/]  (  select *  from aula where true       )     
+[2020.10.03 10:07:15][/]  (  select *  from libro where true       )     
+[2020.10.03 10:27:19][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 10:27:32][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 10:27:55][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 10:28:24][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 10:28:43][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 11:02:43][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 11:02:57][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:18:03][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:18:07][/]update colegio set nombre='English ClubHouses', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:18:51][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:18:54][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:18:55][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:23:31][/]  (  select *  from libro where true       )     
+[2020.10.03 12:23:32][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:23:35][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:24:10][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:24:14][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:26:17][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:26:31][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:26:38][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:27:22][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:28:38][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:28:49][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:29:04][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:29:08][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:29:23][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:29:26][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:29:51][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:29:53][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:29:58][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:30:02][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:30:28][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:31:39][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:31:44][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:31:48][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:32:13][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:32:14][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:32:15][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:32:20][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:32:22][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:32:55][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:33:02][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:33:08][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:33:09][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:33:29][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:43:33][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:43:35][/]update colegio set nombre='English ClubHousessss', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 12:43:38][/]  (  select *  from aula where true       )     
+[2020.10.03 12:43:40][/]  (  select *  from libro where true       )     
+[2020.10.03 12:46:33][/]  (  select *  from libro where true       )     
+[2020.10.03 12:47:15][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 12:47:16][/]  (  select *  from aula where true       )     
+[2020.10.03 13:04:55][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 13:04:56][/]  (  select *  from libro where true       )     
+[2020.10.03 13:08:30][/]  (  select *  from libro where true       )     
+[2020.10.03 13:26:33][/]  (  select *  from aula where true       )     
+[2020.10.03 13:26:47][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 13:26:59][/]  (  select *  from aula where true       )     
+[2020.10.03 13:27:00][/]  (  select *  from libro where true       )     
+[2020.10.03 13:27:01][/]  (  select *  from alumno where true       )     
+[2020.10.03 13:27:02][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 13:27:58][/]  (  select *  from alumno where true       )     
+[2020.10.03 13:27:59][/]  (  select *  from aula where true       )     
+[2020.10.03 13:31:18][/]  (  select *  from docente where true       )     
+[2020.10.03 13:31:52][/]  (  select *  from docente where true       )     
+[2020.10.03 13:32:12][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 13:32:13][/]  (  select *  from aula where true       )     
+[2020.10.03 13:32:14][/]  (  select *  from libro where true       )     
+[2020.10.03 13:48:14][/]  (  select *  from aula where true       )     
+[2020.10.03 13:50:00][/]  (  select *  from aula where true       )     
+[2020.10.03 13:50:01][/]  (  select *  from aula where true       )     
+[2020.10.03 13:50:02][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 13:50:06][/]  (  select *  from aula where true       )     
+[2020.10.03 13:51:32][/]  (  select *  from aula where true       )     
+[2020.10.03 13:51:43][/]  (  select *  from aula where true       )     
+[2020.10.03 17:14:10][/]  (  select *  from colegio where true   and colegio = '1'     )     
+[2020.10.03 17:14:19][/]update colegio set nombre='English ClubHouses', clave='12345', correo='gtryonp@gmail.com', contacto='Elizabeth Cristina Tryon vargas', celular='934601654', direccion='Las Secoyas 142 - La Molina', estado='A', comentario='Excelencia en el Ingles para niños desde los 3 hasta los 103 años' where colegio='1'
+[2020.10.03 17:14:22][/]  (  select *  from aula where true       )     
+[2020.10.03 17:20:08][/]  (  select *  from aula where true       )     
+[2020.10.03 17:20:32][/]  (  select *  from aula where true       )     
+[2020.10.03 17:21:51][/]  (  select *  from aula where true       )     
+[2020.10.03 17:23:01][/]  (  select *  from aula where true       )     
+[2020.10.03 17:23:40][/]  (  select *  from aula where true       )     
+[2020.10.03 17:24:09][/]  (  select *  from aula where true       )     
+[2020.10.03 17:24:27][/]  (  select *  from aula where true       )     

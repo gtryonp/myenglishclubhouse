@@ -1,0 +1,2 @@
+
+[2020.10.05 16:27:32][/]  (  select *  from libro where true       )     
